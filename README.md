@@ -12,6 +12,7 @@ This sample application exposes two possible implementations:
 
 * A `Path`-based implementation that requires API level 19
 * A `Region`-based implementation that requires API level 1
+* A `Span`-based adaptation of the `Path`-based implementation that requires API level 19
 
 ![Elegant underline text decorations on Android](art/elegant-underline.png)
 

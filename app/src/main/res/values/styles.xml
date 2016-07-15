@@ -4,4 +4,15 @@
     <style name="AppTheme" parent="@android:style/Theme.DeviceDefault.Light.DarkActionBar">
     </style>
 
+    <style name="DemoText">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginBottom">40dp</item>
+        <item name="android:layout_gravity">center_horizontal</item>
+        <item name="android:textIsSelectable">true</item>
+        <item name="android:linksClickable">true</item>
+        <item name="android:textSize">24sp</item>
+        <item name="android:textColor">@android:color/black</item>
+    </style>
+
 </resources>
